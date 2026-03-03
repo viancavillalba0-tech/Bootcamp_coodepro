@@ -5,3 +5,4 @@ dia 0
 - instalacion de herramientas
 - taller de github
 dia 1
+- fundamentos de python 
